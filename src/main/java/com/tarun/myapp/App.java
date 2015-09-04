@@ -1,4 +1,4 @@
-package com.hcl.mapi;
+package com.tarun.myapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

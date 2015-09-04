@@ -1,4 +1,4 @@
-package com.hcl.mapi.entity;
+package com.tarun.myapp.entity;
 
 import org.springframework.cassandra.core.PrimaryKeyType;
 import org.springframework.data.cassandra.mapping.Column;
